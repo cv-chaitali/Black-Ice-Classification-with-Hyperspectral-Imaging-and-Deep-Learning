@@ -8,3 +8,5 @@ model.py contains the main model.
 The repo is not yet organised properly. However, the modules are divided accoridng to its role. 
 
 
+cite : Bhattacharyya, C.; Kim, S. Black Ice Classification with Hyperspectral Imaging and Deep Learning. Appl. Sci. 2023, 13, 11977. https://doi.org/10.3390/app132111977
+
