@@ -1,4 +1,4 @@
-# BlackIce_HSC ❄️
+# Black Ice Detection Using Hyperspectral Imaging System and Deep Learning ❄️
 
 This repository is dedicated to the project: **"Black Ice Detection Using Hyperspectral Imaging System and Deep Learning"**. This project aims to classify black ice on surfaces using hyperspectral imaging, leveraging the power of deep learning to provide accurate detection.
 
@@ -13,7 +13,7 @@ This repository is dedicated to the project: **"Black Ice Detection Using Hypers
 
 ### 📊 Data Access
 
-Due to the data size, **raw data is private**. However, you can request access via email:
+Due to the data size/collaboration with external organisation, **raw data is private**. However, you can request access via email:
 - **Contact**: [bhchaitali@yu.ac.kr](mailto:bhchaitali@yu.ac.kr)
 
 *After approval, instructions for accessing the data will be provided.*
@@ -28,11 +28,3 @@ If you use or reference this project, please cite:
 > [https://doi.org/10.3390/app132111977](https://doi.org/10.3390/app132111977)
 
 ---
-
-### 🛠 Future Work
-
-This repository is actively being developed and organized. Stay tuned for more updates, improved modularity, and additional functionalities!
-
----
-
-Thank you for your interest in the **BlackIce_HSC** project! If you have any questions, please feel free to reach out.
